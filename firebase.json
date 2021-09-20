@@ -1,0 +1,11 @@
+{
+  "hosting": {
+	"site":"virtuelog",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
